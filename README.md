@@ -1,2 +1,108 @@
 # GE_1354_Group_Project
-What you see in the title is what you get.
+## Welcome to the group project of GE-1354!
+I am Dubo Lee, the writer of this markdown intro file. 
+## 1. Basic Info
+The group project of GE-1354 is an attached project of GE-1354, which provides students enrolled in the class a stage to show their group work experience, teamwork spirit, hands-on skills and coding skills (it can be easily replaced by ChatGPT, claude and others nowadays).
+
+The group project takes 22% of the total score of the whole class. It takes a few week to complete the whole process, but I like to plan at a relatively early time.
+
+This readme file is specially for our group members, it can also serve as a bulletin which shows our work and collaboration -- that is also the spirit of github.
+
+### 1.1 Group info
+The group is a 4-people group which combined from two 2-person group at the previous 2 lab sessions on week4 and week5.
+
+The group can be divided into three parts (I don't think that is very suitable for 4 people):
+- Micro:Bit programming
+- Electronic components
+- Presentation (powerpoint making and short lecture)
+
+### 1.2 Project info
+The acceptable (but not limited) range of this project can be:
+#### A. Entertainment tools (educational):
+- Digital pets: Interactive, with multi-senses feedback.
+- Digital games: With micro;Bit sensors and actuators.
+- Electonic musical instrument: If we have the ability to do that, I think it is the must to do that, but it may be too difficult.
+- Magic Game Box: Maybe the simplest project choice: Design a magic or a memory game box with 3 different color LEDs and 3 switches.
+
+#### B. Monitoring and Control Systems:
+- Obstacle Radar: detects obstacles and provides visual and sound alerts.
+- Home Security System: detect motion or intrusion and send alerts wirelessly.
+- Multi-Point Weather Monitoring System: Collect and display weather data from multiple locations.
+
+#### C. Smart Automation Devices 
+- Remote Home Automation System: remotely control and monitor home appliances using wireless communication between Micro: bits.
+- DIY Temperature-Controlled Fan System: adjusts speed or activates based on temperature levels. Separate fan is required.
+- Smart Lighting System: Automate and control lighting based on ambient light levels or motion detection.
+
+Those are just good examples provided by previous tech docs, we can brainstorm better ideas with AI agents.
+
+### 1.3 Equipment info
+Except for the default features of Micro:Bit, we also have:
+#### MINIMUM scale:
+- Hardware: 2 Micro:bits, 2 or more sensors, 2 or more actuators.
+- Software: Must exist connections between two Micro:Bits (Wireless or USB)
+
+#### PROVIDED equipments:
+- Ultrasonic Module
+- RGB, LED board
+- OLED display
+- Servo
+
+### 1.4 Programming lang: Python
+
+### 1.5 Presentation timeline:
+As products should come first, there are not any contents there, yet.
+
+### 1.6 Grading Rubric:
+- Innovation points
+- Software Algorithms (I think AI can easily did this, just use "claude code" and everything works well)
+- Live demo
+- Statistic demo and presentation.
+- Documentation of the project (like this readme file). In fact, we can directly show the repistory as it is public.
+
+## 2. Timeline (Official):
+- Week 8-9: Problem identification and initial design:
+- Week 10: Project consultation, Design of the whole system.
+- Week 11: Integration of Software and Hardware.
+- Week 12: Live demo
+- Week 13: Statistic demo, presentation, tech doc.
+
+## 3. Timeline (group):
+As one of our group members have posted her schedules in our wechat group (I think whatsapp is better), my schedule is based on hers, you can make adjustment to that. 
+- Week3 and Week4: Generate ideas or topics
+- End of Week4: Group meeting: Prove the availability of the plan, make workflow and the structure of this repistory.
+- Week5 to 10: Find materials of the project, Coding the repistory and verify. Build easy prototype of the machine. Make drafts of the tech docs.
+- Week11: Integration of software and Hardware.
+- After that: We all know what we can do.
+
+## 4. What I can do?
+For me I want to do the software work, group members can work out their own ideas via ai or brainstorm with other members.
+
+Once the idea be accepted by every group members, I will write the code in the ide, and verify then upload it to this repistory, so that you can examine and modify it.
+
+Also if you have your own schedule, just come to me or come to other members of the group. My email is DuboLee@proton.me
+
+## 5. Which tools we can use beside they provided?
+
+#### AI tools (available until now):
+- Claude, ChatGPT (Free version), 
+- Google Gemini (Workspace version), GeminiCLI, Google Vertex AI studio, Firebase, Perplexity, Copilot, Grok, Poe
+- Agents: Manus (Free plan), Anygen by Bytedance, Github Copilot.
+
+#### Forum:
+- Social Media: Discourse, Github, X, Facebook, Weikipedia, PTT.
+- Broder horizon: Tor network.
+
+## Other notifications:
+- I am not professional and this md file is not generated by ai, so it may have some typos, I am sorry if you encountered that.
+- I am not that familiar with github and I am currently studying it. So the layout may not that good. (-_-)
+
+
+
+I hope this project can bring you a little joy and unforgettable experience in your life in cityu Hong Kong.
+
+
+
+
+
+Last modified, 23:18 Jan 22, 2026. Modified by Zeonming, Wong.

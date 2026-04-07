@@ -1,6 +1,5 @@
 # GE_1354_Group_Project
-## Welcome to the group project of GE-1354!
-I am Dubo Lee, the writer of this markdown intro file. 
+
 ## 1. Basic Info
 The group project of GE-1354 is an attached project of GE-1354, which provides students enrolled in the class a stage to show their group work experience, teamwork spirit, hands-on skills and coding skills (it can be easily replaced by ChatGPT, claude and others nowadays).
 
